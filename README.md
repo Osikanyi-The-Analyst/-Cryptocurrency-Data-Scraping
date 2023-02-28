@@ -14,8 +14,6 @@ Bitcoin has the highest price among all the cryptocurrencies analyzed.
 The average price change percentage for all cryptocurrencies over the 90-day period is negative, indicating a bearish market trend.
 Dogecoin has the highest average price change percentage over the 1-hour period, indicating high volatility.
 
-## 📝 License
-This project is licensed under the MIT License. Feel free to use and modify the code as you see fit.
 
 ##📧 Contact
 If you have any questions or feedback about the project, feel free to contact me at jillskillion@gmail.com.
